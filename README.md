@@ -19,12 +19,6 @@ A Model Context Protocol (MCP) server for interacting with GitLab repositories, 
 pip install -r requirements.txt
 ```
 
-For using the agent with LangChain/LangGraph:
-
-```bash
-pip install -r requirements-agent.txt
-```
-
 2. Set up your GitLab access token:
 
 ```bash
